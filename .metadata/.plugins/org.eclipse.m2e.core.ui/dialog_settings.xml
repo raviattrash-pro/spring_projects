@@ -2,13 +2,21 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="D:\Spring_boot_project\currency-conversion\currency-conversion"/>
-			<item value="C:\Users\ASUS\Downloads\springboot-openai-chat"/>
-			<item value="C:\Users\ASUS\Downloads\springboot-ollama-chat"/>
-			<item value="D:\AI-Enhanced E-Commerce Platform\ai-ecommerce-platform\backend"/>
+			<item value="D:\Spring_boot_project\api-gateway\api-gateway"/>
+			<item value="D:\Spring_boot_project\naming-server\naming-server"/>
+			<item value="D:\Spring_boot_project\currency-conversion-service\currency-conversion-service"/>
+			<item value="D:\Spring_boot_project\currency-exchange-service\currency-exchange-service"/>
+			<item value="D:\Spring_boot_project\spring-cloud-config-server\spring-cloud-config-server"/>
+			<item value="D:\Spring_boot_project\limit-service\limit-service"/>
+			<item value="D:\New_project\stock_app"/>
 			<item value="D:\Spring_boot_project\employee\employee"/>
-			<item value="D:\Spring_boot_project\firstdemo\firstdemo"/>
-			<item value="D:\Spring_boot_project\firstdemo"/>
+			<item value="D:\Spring_boot_project\currency-conversion\currency-conversion"/>
+			<item value="D:\Spring_boot_project\explain_sts\explain_sts"/>
+			<item value="D:\Spring_boot_project\explain_sts"/>
+			<item value="C:\Users\ASUS\Downloads\sprinbootproject"/>
+			<item value="D:\Spring_boot_project\learning_docker\learning_docker"/>
+			<item value="F:\springbootProject\crud-demo"/>
+			<item value="D:\New_project\stock_app\stock_app"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
